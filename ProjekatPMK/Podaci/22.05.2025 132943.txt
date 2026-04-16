@@ -1,0 +1,6 @@
+Trešnja         200
+Banana          400
+Lubenica        120
+------------------------
+Ukupno
+720,000

@@ -1,0 +1,7 @@
+Sargarepa       25
+Paradajz        30
+Jabuka          150
+Lubenica        600
+------------------------
+Ukupno
+805,00

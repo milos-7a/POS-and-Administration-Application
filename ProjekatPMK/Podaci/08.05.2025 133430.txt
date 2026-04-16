@@ -1,0 +1,7 @@
+Sargarepa       25
+Paradajz        30
+Kupus           70
+Grozdje         550
+------------------------
+Ukupno
+675,00

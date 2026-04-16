@@ -1,0 +1,7 @@
+Trešnja         200
+Jabuka          150
+Mandarina       1600
+Lubenica        3000
+------------------------
+Ukupno
+4950,00

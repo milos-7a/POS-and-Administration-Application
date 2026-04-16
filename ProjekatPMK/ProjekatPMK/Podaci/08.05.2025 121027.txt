@@ -1,0 +1,8 @@
+Sargarepa       25
+Paradajz        30
+Jabuka          150
+Limun           140
+Mandarina       1000
+------------------------
+Ukupno
+1345,00

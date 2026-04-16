@@ -1,0 +1,7 @@
+Grozdje         550
+Mandarina       220
+Lubenica        600
+Grozdje         550
+------------------------
+Ukupno
+1920,00

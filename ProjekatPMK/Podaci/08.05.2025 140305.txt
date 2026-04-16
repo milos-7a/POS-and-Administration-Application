@@ -1,0 +1,8 @@
+Jabuka          150
+Grozdje         550
+Mandarina       200
+Mandarina       1600
+Grozdje         4400
+------------------------
+Ukupno
+6900,00

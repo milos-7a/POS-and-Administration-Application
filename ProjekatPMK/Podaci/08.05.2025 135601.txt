@@ -1,0 +1,6 @@
+Kupus           70
+Paradajz        240
+Sargarepa       25
+------------------------
+Ukupno
+335,00
